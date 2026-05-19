@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+
+    <!-- Home Page -->
+    <url>
+        <loc>https://ilmiosud.it/</loc>
+        <lastmod>2024-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Articolo 1: Alencio Panorama -->
+    <url>
+        <loc>https://ilmiosud.it/alencio-panorama-favignana-soggiorno.html</loc>
+        <lastmod>2024-09-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://ilmiosud.it/images/alencio-panorama.jpg</image:loc>
+            <image:title>Alencio Panorama Residence - Vista Marettimo</image:title>
+        </image:image>
+    </url>
+
+    <!-- Articolo 2: Tramonti -->
+    <url>
+        <loc>https://ilmiosud.it/tramonti-favignana.html</loc>
+        <lastmod>2024-08-22</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://ilmiosud.it/images/tramonto-favignana.jpg</image:loc>
+            <image:title>Tramonto a Favignana</image:title>
+        </image:image>
+    </url>
+
+    <!-- Articolo 3: Cosa Mangiare -->
+    <url>
+        <loc>https://ilmiosud.it/cosa-mangiare-favignana.html</loc>
+        <lastmod>2024-08-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://ilmiosud.it/images/cibo-favignana.jpg</image:loc>
+            <image:title>Piatti Tipici di Favignana</image:title>
+        </image:image>
+    </url>
+
+</urlset>

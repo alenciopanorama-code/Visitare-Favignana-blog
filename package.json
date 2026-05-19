@@ -1,0 +1,27 @@
+{
+  "name": "visitare-favignana-blog",
+  "version": "1.0.0",
+  "description": "Blog ufficiale per scoprire le Isole Egadi, Favignana e Alencio Bistrot",
+  "main": "docs/index.html",
+  "scripts": {
+    "serve": "python -m http.server 8000 --directory docs",
+    "serve-node": "npx http-server docs"
+  },
+  "keywords": [
+    "favignana",
+    "egadi",
+    "alencio",
+    "bistrot",
+    "blog",
+    "turismo",
+    "sicilia"
+  ],
+  "author": "Guido Governale",
+  "email": "governaleguido92@gmail.com",
+  "license": "All Rights Reserved",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alenciopanorama-code/Visitare-Favignana-blog.git"
+  },
+  "homepage": "https://visitarefavignana.eu"
+}

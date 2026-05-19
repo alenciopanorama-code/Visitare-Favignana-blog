@@ -1,0 +1,26 @@
+# Robots.txt per Blog Favignana
+# Questo file guida i bot di Google su come crawlare il sito
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
+
+# Google Bot
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# Bing Bot
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+# Sitemap
+Sitemap: https://ilmiosud.it/sitemap.xml
+Sitemap: https://ilmiosud.it/sitemap-articles.xml
+
+# Tempo di visita (in secondi)
+# Google aspetta questo tempo tra un request e l'altro
+Crawl-delay: 0

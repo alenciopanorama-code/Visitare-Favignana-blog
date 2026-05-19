@@ -1,0 +1,25 @@
+{
+  "site": {
+    "title": "Blog Visitare Favignana",
+    "description": "Scopri le Isole Egadi: tramonti, cena e soggiorno indimenticabile",
+    "url": "https://visitarefavignana.eu",
+    "author": "Guido Governale",
+    "language": "it"
+  },
+  "social": {
+    "instagram": "https://www.instagram.com/alenciopanorama/",
+    "facebook": "https://www.facebook.com/alenciopanorama",
+    "email": "governaleguido92@gmail.com"
+  },
+  "business": {
+    "name": "Alencio Panorama Residence",
+    "phone": "+39 328 544 0403",
+    "address": "Contrada Piede d'Alencio, 91023 Favignana (TP)",
+    "website": "https://alenciopanorama.it"
+  },
+  "seo": {
+    "siteName": "Blog Favignana",
+    "locale": "it_IT",
+    "defaultImage": "/images/og-image.jpg"
+  }
+}
